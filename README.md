@@ -1,2 +1,2 @@
 # DUA
-2020 DACON CUP - Predict User Behavior Patterns
+2020 DACON CUP - DACON User Analysis(Predict User Behavior Patterns)
